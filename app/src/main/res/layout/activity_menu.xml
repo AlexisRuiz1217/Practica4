@@ -34,6 +34,7 @@
         android:paddingHorizontal="50dp">
 
         <Button
+            android:id="@+id/button_antojitos"
             android:text="@string/antojitos"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
@@ -45,6 +46,7 @@
             android:paddingVertical="@dimen/menu_buttons_paddings"/>
 
         <Button
+            android:id="@+id/button_especialidades"
             android:text="@string/especialidades"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
@@ -56,6 +58,7 @@
             android:paddingVertical="@dimen/menu_buttons_paddings"/>
 
         <Button
+            android:id="@+id/button_combinations"
             android:text="@string/combinations"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
@@ -66,6 +69,7 @@
             android:textSize="@dimen/menu_buttons_text"/>
 
         <Button
+            android:id="@+id/button_tortas"
             android:text="@string/tortas"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
@@ -76,6 +80,7 @@
             android:textSize="@dimen/menu_buttons_text"/>
 
         <Button
+            android:id="@+id/button_sopas"
             android:text="@string/sopas"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
@@ -86,6 +91,7 @@
             android:textSize="@dimen/menu_buttons_text"/>
 
         <Button
+            android:id="@+id/button_drinks"
             android:text="@string/drinks"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
